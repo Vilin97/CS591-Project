@@ -1,3 +1,3 @@
 This is a repo of a semester-long project conducted by Vasily Ilin and Tanin Tyler Lux as part of the Spring 2020 iteration of CS591 -- Graph Mining, at Boston University. We implement and benchmark the Dynamic Connectivity data structure from a 1995 paper by Henzinger and King called "Randomized Dynamic Graph Algorithms with Polylogarithmic Time per Operation".
 
-If you want to test it out, run Demo.py. It will set up a random graph drawn from G(n,p), and benchmark the Dynamic Connectivity data structure against BFS, using two different implementations of a balanced binary tree: RNB and AVL trees.   
+Go to report/Fully_Dynamic_Connectivity_Report.pdf for the description and the report. If you want to test it out, run Demo.py. It will set up a random graph drawn from G(n,p), and benchmark the Dynamic Connectivity data structure against BFS, using two different implementations of a balanced binary tree: RNB and AVL trees.   
